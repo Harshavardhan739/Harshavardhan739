@@ -1,8 +1,9 @@
 Hi, I’m Harshavardhan 👋
 
-🎓 Electronics / VLSI Enthusiast
+🎓 Electronics and Communication Engineering(ECE) Student / Aspiring VLSI & Digital Design Engineer
 💻 Learning Verilog HDL and Digital Design
 🚀 Building RTL projects and documenting them on GitHub
+📚 Exploring VLSI Design, FPGA, and Digital Systems
 
 🔧 Skills
 
