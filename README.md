@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I’m Harshavardhan 👋
 
-<!--
-**Harshavardhan739/Harshavardhan739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics / VLSI Enthusiast
+💻 Learning Verilog HDL and Digital Design
+🚀 Building RTL projects and documenting them on GitHub
 
-Here are some ideas to get you started:
+🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Verilog HDL
+- RTL Design
+- FSM Design
+- ModelSim Simulation
+- Git & GitHub
+
+📌 Featured Project
+
+UART Controller in Verilog HDL
+
+- Baud Rate Generator
+- UART Transmitter
+- UART Receiver
+- Top-Level Integration
+- Waveform & Dataflow Verification
+
+🔗 Repository: https://github.com/Harshavardhan739/UART-Controller-Verilog
+
+📫 Connect
+
+GitHub: https://github.com/Harshavardhan739
+
