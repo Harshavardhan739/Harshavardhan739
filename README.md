@@ -33,10 +33,10 @@ UART Controller Design and Verification using Verilog HDL
 - Functional Verification using ModelSim
 - RTL, Dataflow, and Waveform Documentation
 
- 🔗 **Repository:**  
+  🔗 **Repository:**  
 https://github.com/Harshavardhan739/UART-Controller-Verilog
 
- 🌱 Currently Learning
+  🌱 Currently Learning
 
 - Advanced Verilog HDL
 - FPGA Design
@@ -44,7 +44,7 @@ https://github.com/Harshavardhan739/UART-Controller-Verilog
 - SystemVerilog
 - ASIC Design Flow
 
- 📫 Connect
+  📫 Connect
 
 **GitHub:**  
 https://github.com/Harshavardhan739
