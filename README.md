@@ -54,6 +54,7 @@ Hi, I'm Harshavardhan 👋
 
 
    🌱 Currently Learning
+   
         * Advanced Verilog HDL
         * SystemVerilog
         * FPGA Design
@@ -64,4 +65,5 @@ Hi, I'm Harshavardhan 👋
 
        
    📫 Connect
+   
         * GitHub: https://github.com/Harshavardhan739
