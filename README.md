@@ -50,18 +50,18 @@ Hi, I'm Harshavardhan 👋
         * RTL/Dataflow and Waveform Analysis
         * End-to-End Master-Slave Data Integrity Verification
 
-  🔗 Repository: https://github.com/Harshavardhan739/SPI-Full-Duplex-Controller
+   🔗 Repository: https://github.com/Harshavardhan739/SPI-Full-Duplex-Controller
 
 
-  🌱 Currently Learning
-       * Advanced Verilog HDL
-       * SystemVerilog
-       * FPGA Design
-       * VLSI Front-End Design
-       * ASIC Design Flow
-       * RTL Verification
-       * Digital Design Methodologies
+   🌱 Currently Learning
+        * Advanced Verilog HDL
+        * SystemVerilog
+        * FPGA Design
+        * VLSI Front-End Design
+        * ASIC Design Flow
+        * RTL Verification
+        * Digital Design Methodologies
 
        
-  📫 Connect
-       * GitHub: https://github.com/Harshavardhan739
+   📫 Connect
+        * GitHub: https://github.com/Harshavardhan739
